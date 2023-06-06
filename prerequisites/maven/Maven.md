@@ -1,0 +1,8 @@
+[Apache Maven](https://maven.apache.org/index.html)
+[Maven in 5 Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+[Configuring Maven](https://maven.apache.org/guides/mini/guide-configuring-maven.html)
+[Introduction to the Standard Directory Layout](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
+[Available Plugins](https://maven.apache.org/plugins/index.html)
+[Maven Quickstart Archetype](https://maven.apache.org/archetypes/maven-archetype-quickstart/)
+[Introduction to the Build Lifecycle](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
+[Maven Getting Started Guide](https://maven.apache.org/guides/getting-started/index.html)
